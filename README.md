@@ -31,6 +31,6 @@ Each project contains its own setup instructions. Navigate to the project folder
 
 Contact
 
-LinkedIn: [Your LinkedIn]
-Email: [Your Email]
+LinkedIn: www.linkedin.com/in/quinton-anding-98ba5922b
+Email: quinton.a@outlook.com
 GitHub: https://github.com/Quinton444
